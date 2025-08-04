@@ -41,7 +41,7 @@ Background MRT jingles (e.g. *Chan Mali Chan*) play throughout, offering an emot
 
 ```bash
 git clone https://github.com/lucyy05/01.020_DTP_III_v2.git
-cd 01.020_DTP_MemoryGame
+cd 01.020_DTP_III_v2
 ````
 
 ### ✅ 2. Create a virtual environment (optional)
