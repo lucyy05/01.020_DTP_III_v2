@@ -28,8 +28,8 @@ Background MRT jingles (e.g. *Chan Mali Chan*) play throughout, offering an emot
 <table>
   <tr>
     <td><img src="media/start.png" width="250"/></td>
-    <td><img src="media/gameplay_selection.png" width="250"/></td>
     <td><img src="media/gameplay_sequence.png" width="250"/></td>
+    <td><img src="media/gameplay_selection.png" width="250"/></td>
   </tr>
 </table>
 
@@ -88,9 +88,9 @@ python sequential_memory.py
 │   └── Playwrite.ttf
 │
 ├── media/                  # Screenshots for README/docs
-│   ├── seq_start.png
-│   ├── seq_memory.png
-│   └── seq_recall.png
+│   ├── start.png
+│   ├── gameplay_sequence.png
+│   └── gameplay_selection.png
 │
 ├── sequential_memory.py    # Main game script
 ├── requirements.txt        # Python dependencies
