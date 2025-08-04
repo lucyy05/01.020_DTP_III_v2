@@ -1,8 +1,3 @@
-Got it! Here's a complete and clean `README.md` specifically for your **Sequential Memory Game for Dementia Care** project, designed with cognitive and reminiscence therapy in mind:
-
----
-
-````markdown
 # 🧠 Sequential Memory Game [Dementia-Friendly Edition]
 
 A Pygame-based prototype designed to support **working and episodic memory** in older adults with mild Alzheimer's dementia. This game helps users recall the order of visual sequences while enjoying familiar cultural icons and MRT jingles from Singapore.
@@ -32,9 +27,9 @@ Background MRT jingles (e.g. *Chan Mali Chan*) play throughout, offering an emot
 
 <table>
   <tr>
-    <td><img src="media/seq_start.png" width="250"/></td>
-    <td><img src="media/seq_memory.png" width="250"/></td>
-    <td><img src="media/seq_recall.png" width="250"/></td>
+    <td><img src="media/start.png" width="250"/></td>
+    <td><img src="media/gameplay_selection.png" width="250"/></td>
+    <td><img src="media/gameplay_sequence.png" width="250"/></td>
   </tr>
 </table>
 
@@ -45,7 +40,7 @@ Background MRT jingles (e.g. *Chan Mali Chan*) play throughout, offering an emot
 ### ✅ 1. Clone the repo
 
 ```bash
-git clone https://github.com/lucyy05/01.020_DTP_MemoryGame.git
+git clone https://github.com/lucyy05/01.020_DTP_III_v2.git
 cd 01.020_DTP_MemoryGame
 ````
 
